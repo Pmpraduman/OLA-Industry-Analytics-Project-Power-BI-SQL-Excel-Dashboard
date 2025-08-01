@@ -10,3 +10,17 @@ This project involves the creation of an advanced Power BI dashboard for analyzi
 ## ❌ Cancellations
 ##  ⭐ Customer and driver ratings
 ## These insights empower stakeholders to make informed business decisions.
+
+#  🎯 Scope and Objective
+#   🔍 Scope
+
+##  📈 Understand booking trends and user behavior over time.
+##  ❗ Analyze ride cancellations to identify patterns and root causes.
+##  💸 Segment revenue sources and identify top-performing customers.
+##  🌟 Evaluate customer and driver ratings to enhance service quality
+
+#  🥅 Objective
+
+##  Deliver actionable insights to optimize operational efficiency.
+##  Uncover key metrics driving OLA's revenue and customer satisfaction.
+##  Provide predictive analytics for future planning.
